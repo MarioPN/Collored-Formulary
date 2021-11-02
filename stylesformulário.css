@@ -1,0 +1,55 @@
+* {
+    font-family: 'Nunito', sans-serif;
+    
+}
+
+.container {
+    border: 2px solid black;
+    padding: 20px;
+    margin-top: 2px;
+    background-color: black;
+}
+
+.title-register {
+    position: absolute;
+    top: -16px;
+    background-color: white;
+    font-weight: bolder;
+}
+
+label {
+    display: block;
+    font-family: cursive;
+    color: chartreuse;
+    font-size: 20px;
+}
+
+input {
+    margin-bottom: 15px;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #ADAB24;
+    color: tomato;
+    border-color: blue;
+    width: 80px;
+    height: 50px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+input {
+    border-color: red;
+}
+
+
+
+.checkbox-social {
+    display: inline;
+}
+
+.sexo {
+    display: inline;
+
+}
